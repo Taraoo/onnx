@@ -1,0 +1,1 @@
+ValueError: Input 258 of node StatefulPartitionedCall was passed int64 from nonmaxsuppression_result_nonmaxsuppression__8057:0 incompatible with expected resource.
